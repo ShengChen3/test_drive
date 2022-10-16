@@ -17,3 +17,7 @@ One thing I have learned from Github is creating branches.
 Beverly Dong
 
 I learned how to create branches on Github and cloning.
+
+Genesis Green   
+
+I learned how to create a branch and how to join a repository.
