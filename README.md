@@ -1,10 +1,8 @@
 # test_drive
- 
 
-Timothy Kariithi 
+Timothy Kariithi
 
 I learned how to create branches and handle merging. Making it easy for teams to collaborate.
-
 
 Sheng Chen
 
@@ -18,6 +16,10 @@ Beverly Dong
 
 I learned how to create branches on Github and cloning.
 
-Genesis Green   
+Genesis Green
 
 I learned how to create a branch and how to join a repository.
+
+NinjaAung
+
+I learned this already :). Great refresher
